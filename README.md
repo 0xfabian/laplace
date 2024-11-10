@@ -14,26 +14,14 @@
 ### 1. Spectral Decomposition
 ![Spectral Decomposition Demo](gifs/spec.gif)
 
-- Visualizes eigenfunctions on a 3D mesh.
-- Highlights the surface structure through eigenvalue decomposition.
-
 ### 2. Mean Curvature Flow
 ![Mean Curvature Flow Demo](gifs/mcf.gif)
-
-- Smooths surfaces by evolving them according to mean curvature.
-- Useful for surface denoising and shape analysis.
 
 ### 3. Heat Equation
 ![Heat Equation Demo](gifs/he.gif)
 
-- Demonstrates heat diffusion over the surface.
-- Models thermal properties and diffusion patterns.
-
 ### 4. Wave Equation
 ![Wave Equation Demo](gifs/we.gif)
-
-- Shows wave propagation over the mesh.
-- Simulates dynamic oscillations and wave behaviors.
 
 ## Supported File Format
 
