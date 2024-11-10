@@ -11,8 +11,6 @@
 
 ## Examples
 
-Below are examples of each feature.
-
 ### 1. Spectral Decomposition
 ![Spectral Decomposition Demo](gifs/spec.gif)
 
@@ -39,7 +37,7 @@ Below are examples of each feature.
 
 ## Supported File Format
 
-- **OBJ**: Import any `.obj` file for visualization.
+- **OBJ**: Import any `.obj` file for visualization. While the project supports most `.obj` files, certain complex or irregular meshes may lead to instability.
 
 ## Dependencies
 
